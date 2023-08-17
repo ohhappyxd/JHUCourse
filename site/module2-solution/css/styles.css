@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+section>div {
+    background-color: gray;
+    position:relative;
+    border: 1px solid black;
+}
+
+.type {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid black;
+    clear: left;
+    height: 1.2rem;
+    width: 5rem;
+    text-align: center;
+}
+
+#chicken {
+    background-color: #d9b464;
+}
+
+#beef {
+    background-color: #e6a091;
+}
+
+#sushi {
+    background-color: #eba35b;
+}
