@@ -31,10 +31,7 @@ button.navbar-toggle {
     margin-top: 10px;
 }
 
-.navbar-collapse {
-    text-align: center;
-    color: rgb(16, 56, 102);
-}
+
 div#collapsable-nav.navbar-collapse.collapse.in {
     background-color:aliceblue;
 }
