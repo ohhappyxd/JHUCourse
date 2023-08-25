@@ -15,7 +15,7 @@ body {
 }
 
 .navbar {
-    border: 1px solid saddlebrown;
+    border-bottom: 1px solid black;
     padding: 0px;
     background-color: rgb(179, 178, 177);
 }
